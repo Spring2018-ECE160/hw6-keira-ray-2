@@ -9,5 +9,23 @@ Note: You may hard code these statistics in a global or in your main.
 Bonus (+5 points): Find an actual data file that you ingest with your program using functions like fopen from chapter7.
 
 Compile Steps:
-
+gcc 5.c
 Output:
+
+$ ./a.exe
+
+Top eight most popular social networks worldwide as of April 2018, ranked by number of active users(in millions):
+Name                                    Active Users(mil)
+Facebook                                2234
+YouTube                                 1500
+WhatsApp                                1500
+Facebook Messenger                      1300
+Wechat                                  980
+Instagram                               813
+Tumblr                                  794
+QQ                                      783
+
+The average number of the active users of the top eight social network is 1238
+there are 4 social networks with over a billion users.
+
+
